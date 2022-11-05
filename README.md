@@ -12,3 +12,6 @@
 - Here is an image if you are confused about which numbers are which. ![Example](https://i.imgur.com/KgFGQws.jpg)
  
  **Once you have changed the colors and/or postions build it.**
+
+
+## If you want to use it on the [Human Benchmark Aim Trainer](https://humanbenchmark.com/tests/aim) you can download it from [Releases](https://github.com/syntheistic/666AB/releases/tag/releases)
