@@ -1,0 +1,13 @@
+C:\Users\blake\source\repos\666AB\666AB\bin\Debug\666AB.exe.config
+C:\Users\blake\source\repos\666AB\666AB\bin\Debug\666AB.exe
+C:\Users\blake\source\repos\666AB\666AB\bin\Debug\666AB.pdb
+C:\Users\blake\source\repos\666AB\666AB\obj\Debug\666AB.csproj.AssemblyReference.cache
+C:\Users\blake\source\repos\666AB\666AB\obj\Debug\666AB.csproj.SuggestedBindingRedirects.cache
+C:\Users\blake\source\repos\666AB\666AB\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\blake\source\repos\666AB\666AB\obj\Debug\666AB.csproj.ResolveComReference.cache
+C:\Users\blake\source\repos\666AB\666AB\obj\Debug\_666AB.Form1.resources
+C:\Users\blake\source\repos\666AB\666AB\obj\Debug\_666AB.Properties.Resources.resources
+C:\Users\blake\source\repos\666AB\666AB\obj\Debug\666AB.csproj.GenerateResource.cache
+C:\Users\blake\source\repos\666AB\666AB\obj\Debug\666AB.csproj.CoreCompileInputs.cache
+C:\Users\blake\source\repos\666AB\666AB\obj\Debug\666AB.exe
+C:\Users\blake\source\repos\666AB\666AB\obj\Debug\666AB.pdb
